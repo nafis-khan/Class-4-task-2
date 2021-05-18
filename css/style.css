@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+
+.header h1{
+    color: wheat;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.nav{
+    width: 30%;
+    height: 600px;
+    background-color: red;
+    float: left;
+    text-align: center;
+    
+}
+
+.nav h1{
+    color: white;
+  
+}
+
+.article{
+    width: 50%;
+    height: 600px;
+    background-color: orangered;
+    float: left;
+    text-align: center;
+
+}
+
+.article h1{
+    color: whitesmoke;
+}
+
+.ads{
+    width: 20%;
+    height: 600px;
+    background-color: violet;
+    float: right;
+    text-align: center;
+}
+
+.ads h1{
+    color: tomato;
+}
+
+.footer{
+    background-color: goldenrod;
+    height: 100px;
+    text-align: center;
+}
